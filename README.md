@@ -1,12 +1,12 @@
-# Hi there, I'm Khiel Christian Abila Decena 👋
+# 👋 Hi, I'm Khiel Christian Abila Decena
 
 <div align="center">
 
-### Full-Stack Developer Learner
+### 💻 Computer Science Learner
+### 🤖 Aspiring AI Engineer
+### 🚀 Building Projects • Solving Problems • Learning Every Day
 
-### Future AI Engineer
-
-### Building Projects & Learning Daily 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+Khiel.exe...;%3E+Future+Full-Stack+Developer;%3E+Future+AI+Engineer;%3E+Learning+Python+%7C+Java+%7C+Web+Dev;%3E+Access+Granted..." alt="Typing SVG" />
 
 </div>
 
@@ -14,31 +14,46 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Full-Stack Development**
+* 🌱 Currently learning **Computer Science**
 * 🤖 Exploring **AI Agents & Artificial Intelligence**
-* 🐍 Mastering **Python Development**
+* 🚀 Learning **🐍 Python → ☕ Java → 🔧 C → ⚡ C++ → 🚀 Go → 💎 C#**
 * 📚 Passionate about continuous learning
-* 🎯 Goal for 2026: **Become a Professional Full-Stack Developer**
+* 🎯 Goal for 2026 **Building Strong Programming Fundamentals 🚀**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack & Tools
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,laravel,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,laravel,html,css,javascript,git,github,vscode&perline=5" />
 
-</p>
+<br>
+
+💻 **Languages:** Python • Java • C • JavaScript
+
+🌐 **Web Development:** HTML • CSS • Laravel
+
+🔧 **Tools:** Git • GitHub • VS Code
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-📌 Learning Full-Stack Development
-📌 Building AI Agents
 📌 Mastering Python
+📌 Mastering Java 
+📌 Mastering C
+📌 Mastering C++
+📌 Mastering C#
+📌 Mastering Go
+📌 Mastering Git/GitHub
+📌 Building AI Agents
 📌 Creating Real-World Projects
+📌 solving intermediate to advanced coding problems
+
 ```
 
 ---
@@ -47,21 +62,22 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhielDecena&show_icons=true&theme=tokyonight&hide_border=true)](https://github-readme-stats.vercel.app/api?username=KhielDecena&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KhielDecena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KhielDecena\&theme=tokyonight\&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=KhielDecena&theme=tokyonight&hide_border=true&background=0d1117" width="49%" />
+
 
 </div>
 
 ---
 
-## 🚀 2026 Goals
+## 🚀 2030 Goals
 
-* Build production-ready web applications
-* Create intelligent AI-powered systems
-* Contribute to open-source projects
-* Strengthen backend and frontend skills
-* Grow as a professional software developer
+* 🔥 Full-stack + backend developer
+* 🔥 AI-assisted developer (modern tech ready)
+* 🔥 Can build real systems & apps
+* 🔥 May portfolio + experience
+* 🔥 Ready for job, freelance, or startup
 
 ---
 
