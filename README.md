@@ -47,8 +47,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhielDecena\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhielDecena&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhielDecena\&theme=tokyonight\&hide_border=true)
 
 </div>
